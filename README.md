@@ -26,10 +26,7 @@ hecto932 [10:36 PM]
 8.- Creamos los campos en cada modulo y  agregamos los modulos en settings.py
 
 hecto932 [10:37 PM]
-8.- hacemos ./manage.py makemigrations que lo que hace es preparar todos los cambios en nuestros modelos para su posterior migracion
-
-hecto932 [10:37 PM]
-9 **
+9.- hacemos ./manage.py makemigrations que lo que hace es preparar todos los cambios en nuestros modelos para su posterior migracion
 
 hecto932 [10:38 PM]
 10 .- Aplicamos la migracion preparada con ./manage.py migrate y se creara en cada modelo las tablas de bases de datos que se llevan hasta ese momento
